@@ -29,7 +29,7 @@ https://www.iconfinder.com/Makoto_msk */
                     <Link to="/cart" className="ml-auto">
                     <ButtonContainer>
                         <span className="mr-2">
-                        <i className="fas fa-cart-plus" />
+                        <i class="fa fa-cart-plus" aria-hidden="true"></i>
                         </span>
                          My cart
                     </ButtonContainer>

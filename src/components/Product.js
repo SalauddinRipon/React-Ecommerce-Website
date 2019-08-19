@@ -35,7 +35,7 @@ class Product extends Component {
                   in Cart
                 </p>
               ) : (
-                <i className="fas fa-cart-plus" />
+                <i class="fa fa-cart-plus" aria-hidden="true"></i>
               )}
             </button>
           </div>
